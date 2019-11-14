@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>欢迎  ${account.name}</h1>
+	<h1>退出请关机</h1>
 </body>
 </html>
